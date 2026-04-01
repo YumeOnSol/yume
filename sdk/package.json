@@ -1,0 +1,21 @@
+{
+  "name": "@yume-wtf/sdk",
+  "version": "1.0.0",
+  "description": "Official SDK for the Yume AI generation API",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["yume", "ai", "anime", "nsfw", "solana", "sdk"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YumeOnSol/yume"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.0"
+  }
+}
