@@ -128,7 +128,7 @@ curl -X POST https://api.yume.wtf/v1/generate \
 | Pay-per-use | 1 $YUME/gen | 60/min |
 | Unlimited | 500 $YUME/mo | 120/min |
 
-> Full API documentation: [docs.yume.wtf](https://yume.wtf)
+> Full API documentation: [docs.yume.wtf](https://docs.yume.wtf)
 
 ---
 
